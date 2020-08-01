@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+Software Engineer, Frontend Architect, Angular Senior Developer - Angular Trainer - Angular Speaker
+
+- 🔭 I’m currently working on: TechnoApes 
+- 🌱 I’m currently learning: React & React Native
+
+![Github Stats for Andres Escobar Ciceri](https://github-readme-stats.vercel.app/api?username=andresciceri&show_icons=true&hide_border=true&title_color=d5d6d7&icon_color=7c828d&bg_color=2b343bff)
+
 <!--
 **andresciceri/andresciceri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
